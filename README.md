@@ -88,7 +88,7 @@ Kunjungi aplikasi yang sudah di-deploy di **[lks.arvionai.web.id](https://lks.ar
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/username/sistem_prediksi_stunting.git
+git clone https://github.com/ArvionAi-jmb/LKS-AI-2026.git
 cd sistem_prediksi_stunting
 
 # 2. (Opsional) Buat virtual environment
